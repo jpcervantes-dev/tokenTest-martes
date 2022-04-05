@@ -1,0 +1,13 @@
+{
+  "name": "tokenTest-martes",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/spl-token": "^0.2.0",
+    "@solana/web3.js": "^1.37.1"
+  },
+  "scripts": {
+    "go": "npx ts-node index.ts"
+  }
+}
